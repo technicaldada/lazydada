@@ -6,3 +6,12 @@ I'll be working through all of the menus to ensure that any options in this app 
 If there are any tools in this utility that are installed by default by Kali then they might be removed unless there is good reason to keep them. No need to duplicate efforts. This tool can be both for the expert as well as the new user to have an easy way to add all the tweaks that are usually applied when you are setting up a system. 
 
 -Technicaldada4us
+======================================================Easy to Use==================================================================
+1. Open your Terminal
+2. type or copy and paste this commands one by one
+sudo apt-get install git
+git clone https://github.com/technicaldada/lazydada
+cd lazydada
+chmod +x lazydada.sh
+./lazydada.sh
+****************************************************************Enjoy**************************************************************
