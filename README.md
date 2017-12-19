@@ -8,7 +8,7 @@ If there are any tools in this utility that are installed by default by Kali the
 -Technicaldada4us
 
 
-======================================================Easy to Use==================================================================
+======================Easy to use=============================
 
 1. Open your Terminal
 2. type or copy and paste this commands one by one
@@ -23,4 +23,4 @@ chmod +x lazydada.sh
 
 ./lazydada.sh
 
-****************************************************************Enjoy**************************************************************
+************************Enjoy*******************************************
